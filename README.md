@@ -1,3 +1,7 @@
+### Kept this file but it was edited 
+### to show that i did some editing :)
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
